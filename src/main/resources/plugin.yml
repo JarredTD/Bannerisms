@@ -1,0 +1,6 @@
+name: Bannerisms
+version: '${project.version}'
+main: clippy.bannerisms.Bannerisms
+api-version: '1.20'
+authors: [Jarred]
+description: Plugin to enable more than 6 layers on a banner
