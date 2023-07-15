@@ -1,4 +1,4 @@
-package clippy.bannerisms.listeners;
+package clippy.bannerisms.listeners.handler;
 
 import clippy.bannerisms.Bannerisms;
 import lombok.AccessLevel;
